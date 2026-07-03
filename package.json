@@ -20,16 +20,16 @@
   },
   "main": "lib/index.js",
   "devDependencies": {
-    "@types/express": "^5.0.1",
-    "@types/lodash": "^4.17.16",
-    "@types/node": "^20.17.8",
+    "@types/express": "^5.0.6",
+    "@types/lodash": "^4.17.24",
+    "@types/node": "^20.19.43",
     "cross-env": "^7.0.3",
-    "eslint": "^9.7.0",
+    "eslint": "^9.39.4",
     "neostandard": "^0.11.9",
-    "node-karin": "^1.16.1",
-    "tsup": "^8.5.0",
-    "tsx": "^4.19.2",
-    "typescript": "^5.5.3"
+    "node-karin": "latest",
+    "tsup": "^8.5.1",
+    "tsx": "^4.22.4",
+    "typescript": "^5.9.3"
   },
   "karin": {
     "main": "src/index.ts",
@@ -61,6 +61,6 @@
     "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
-    "oopz-sdk": "^0.1.5"
+    "oopz-sdk": "latest"
   }
 }

@@ -1,3 +1,6 @@
 {
-  "yiyanApi": "https://api.yujn.cn/api/sjyy.php"
+  "deviceId": "",
+  "personUid": "",
+  "jwtToken": "",
+  "privateKey": ""
 }
